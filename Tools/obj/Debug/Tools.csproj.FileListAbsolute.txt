@@ -1,0 +1,12 @@
+C:\Users\sidad\Desktop\people\people\lanevskiV\2sem\Att3\Tools\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\people\lanevskiV\2sem\Att3\Tools\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\people\lanevskiV\2sem\Att3\Tools\obj\Debug\Tools.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\lanevskiV\2sem\Att3\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\lanevskiV\2sem\Att3\Tools\obj\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\people\lanevskiV\2sem\Att3\Tools\obj\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\people\AntonP\Sem2\Att3\Tools\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\people\AntonP\Sem2\Att3\Tools\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\people\AntonP\Sem2\Att3\Tools\obj\Debug\Tools.csprojAssemblyReference.cache
+C:\Users\sidad\Desktop\people\people\AntonP\Sem2\Att3\Tools\obj\Debug\Tools.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\people\AntonP\Sem2\Att3\Tools\obj\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\people\AntonP\Sem2\Att3\Tools\obj\Debug\Tools.pdb
